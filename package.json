@@ -1,0 +1,16 @@
+{
+  "name": "project",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "devDependencies": {
+    "eslint-config-george": "hekystyle/eslint-config-george#master"
+  },
+  "scripts": {
+    "lint": "eslint src --ext .js,.ts",
+    "tsc": "tsc"
+  },
+  "dependencies": {
+    "typescript": "^4.4.4"
+  }
+}
