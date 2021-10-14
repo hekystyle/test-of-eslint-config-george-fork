@@ -1,7 +1,6 @@
 {
-  "name": "project",
-  "version": "1.0.0",
-  "main": "index.js",
+  "name": "test-of-eslint-config-george-fork",
+  "version": "0.0.1",
   "license": "MIT",
   "devDependencies": {
     "eslint-config-george": "hekystyle/eslint-config-george#master"
