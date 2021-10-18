@@ -3,7 +3,7 @@
   "version": "0.0.1",
   "license": "MIT",
   "devDependencies": {
-    "eslint-config-george": "hekystyle/eslint-config-george#master"
+    "eslint-config-george": "jirijancik/lint#master"
   },
   "scripts": {
     "lint": "eslint src --ext .js,.ts",
